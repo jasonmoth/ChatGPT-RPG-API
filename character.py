@@ -1,3 +1,5 @@
+from being import Being
+
 class Character(Being):
     def __init__(self, name, character_class, level):
         super().__init__(name, character_class, level)
