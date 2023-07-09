@@ -1,6 +1,6 @@
-from being import Being
+from being import Humanoid_Being
 
-class NPC(Being):
+class NPC(Humanoid_Being):
     def __init__(self, name, character_class, level, alignment, goals, faction, disposition):
         super().__init__(name, character_class, level)
         self.alignment = alignment

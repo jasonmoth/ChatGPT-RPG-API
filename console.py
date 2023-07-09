@@ -1,4 +1,4 @@
-import keyboard, logging, time
+import keyboard, logging, os, time
 from colorama import Fore, Back, Style
 from pyfiglet import Figlet
 from game_logger import setup_game_logger
@@ -8,6 +8,7 @@ from game_logger import setup_game_logger
 setup_game_logger()
 global logger
 logger = logging.getLogger('game_logger')
+logger.setLevel(logging.INFO)
 
 
 # Environment Variables
@@ -81,10 +82,21 @@ def game_print(message, type='NARRATION'):
 
 
 def _unit_test():
+    
+    # Clear Terminal
+    if os.name == 'nt':  # For Windows
+        os.system('cls')
+    else:  # For Linux and macOS
+        os.system('clear')
+    
+    for handler in logger.handlers:
+        handler.setLevel(logging.INFO)
+    
+    logging.info('Beginning Unit Test')
+
     game_print('My Title', 'TITLE')
     game_print('This is a test for narration. Here is a second sentance. And a third. And some commas, another one, and finally a third.', 'NARRATION')
     game_print('This is a test for Dialog. Here is a second sentance. And a third. And some commas, another one, and finally a third.', 'DIALOG')
 
 if __name__ == '__main__':
     _unit_test()
-    pass

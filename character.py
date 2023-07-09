@@ -1,6 +1,6 @@
-from being import Being
+from being import Humanoid_Being
 
-class Character(Being):
+class Character(Humanoid_Being):
     def __init__(self, name, character_class, level):
         super().__init__(name, character_class, level)
         # Add any character-specific attributes here

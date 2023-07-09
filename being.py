@@ -1,8 +1,9 @@
-class Being:
+class Humanoid_Being:
     def __init__(self, name, character_class, level):
         self.name = name
         self.character_class = character_class
         self.level = level
+        self.experience = 0
         self.skills = []
         self.spells = []
         self.equipped_items = []
