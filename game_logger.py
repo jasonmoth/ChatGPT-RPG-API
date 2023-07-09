@@ -1,9 +1,6 @@
-import logging, time
+import logging
 
 def setup_game_logger():
-    # LOG_FILE_START_TIME = time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime())
-    # LOG_FILE_PATH = './logs/log-' + LOG_FILE_START_TIME + '.log'
-
     LOG_FILE_PATH = './logs/log_file.log'
 
     # Create the logger
@@ -16,7 +13,7 @@ def setup_game_logger():
 
     # Create a console handler
     console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
+    console_handler.setLevel(logging.WARN)
 
     # Create a formatter and add it to the handlers
     FILE_LOGGING_FORMAT = logging.Formatter('%(asctime)s - %(levelname)s: %(message)s')

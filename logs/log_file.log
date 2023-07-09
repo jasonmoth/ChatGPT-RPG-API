@@ -10,3 +10,162 @@
 2023-07-08 19:58:50,992 - INFO: Program Ended
 
 
+2023-07-08 19:59:52,206 - INFO: Program Started
+2023-07-08 19:59:52,207 - INFO: Program Ended
+
+
+2023-07-08 20:00:38,500 - INFO: Program Started
+2023-07-08 20:00:38,501 - INFO: Program Ended
+
+
+2023-07-08 20:42:47,192 - INFO: Program Started.
+2023-07-08 20:42:47,193 - INFO: Entering Main Loop.
+2023-07-08 20:42:47,193 - INFO: Program Ended.
+
+
+2023-07-08 20:49:25,126 - INFO: Narration Started.
+2023-07-08 20:49:50,259 - INFO: Narration Started.
+2023-07-08 20:50:12,043 - INFO: Narration Started.
+2023-07-08 20:51:12,055 - INFO: Narration Started.
+2023-07-08 20:52:01,672 - INFO: Narration Started.
+2023-07-08 20:53:29,630 - INFO: Narration Started.
+2023-07-08 20:53:44,192 - INFO: Narration Started.
+2023-07-08 20:54:04,515 - INFO: Narration Started.
+2023-07-08 20:57:17,264 - INFO: Narration Started.
+2023-07-08 20:57:26,283 - INFO: Narration Started.
+2023-07-08 20:57:43,588 - INFO: Narration Started.
+2023-07-08 20:59:28,258 - INFO: Narration Started.
+2023-07-08 20:59:37,297 - INFO: Narration Started.
+2023-07-08 21:00:12,753 - INFO: Narration Started.
+2023-07-08 21:00:38,672 - INFO: Narration Started.
+2023-07-08 21:01:03,497 - INFO: Narration Started.
+2023-07-08 21:02:43,239 - INFO: Narration Started.
+2023-07-08 21:04:01,927 - INFO: Narration Started.
+2023-07-08 21:05:29,439 - INFO: Title Started.
+2023-07-08 21:05:29,441 - INFO: Narration Started.
+2023-07-08 21:05:31,428 - INFO: Dialog Started.
+2023-07-08 21:05:55,276 - INFO: Title Started.
+2023-07-08 21:05:55,279 - INFO: Narration Started.
+2023-07-08 21:05:57,261 - INFO: Dialog Started.
+2023-07-08 21:06:25,121 - INFO: Title Started.
+2023-07-08 21:06:25,124 - INFO: Narration Started.
+2023-07-08 21:06:27,094 - INFO: Dialog Started.
+2023-07-08 21:08:29,969 - INFO: Title Started.
+2023-07-08 21:08:29,972 - INFO: Narration Started.
+2023-07-08 21:08:31,954 - INFO: Dialog Started.
+2023-07-08 21:08:37,220 - INFO: Title Started.
+2023-07-08 21:08:37,223 - INFO: Narration Started.
+2023-07-08 21:08:39,206 - INFO: Dialog Started.
+2023-07-08 21:08:51,357 - INFO: Title Started.
+2023-07-08 21:08:51,359 - INFO: Narration Started.
+2023-07-08 21:08:51,980 - INFO: Dialog Started.
+2023-07-08 21:09:02,445 - INFO: Title Started.
+2023-07-08 21:09:02,449 - INFO: Narration Started.
+2023-07-08 21:09:03,991 - INFO: Dialog Started.
+2023-07-08 21:09:12,407 - INFO: Title Started.
+2023-07-08 21:09:12,409 - INFO: Narration Started.
+2023-07-08 21:09:14,399 - INFO: Dialog Started.
+2023-07-08 21:10:43,976 - INFO: Title Started.
+2023-07-08 21:10:43,980 - INFO: Narration Started.
+2023-07-08 21:10:48,588 - INFO: Dialog Started.
+2023-07-08 21:11:00,766 - INFO: Title Started.
+2023-07-08 21:11:00,769 - INFO: Narration Started.
+2023-07-08 21:11:06,015 - INFO: Dialog Started.
+2023-07-08 21:11:15,362 - INFO: Title Started.
+2023-07-08 21:11:15,365 - INFO: Narration Started.
+2023-07-08 21:11:20,208 - INFO: Dialog Started.
+2023-07-08 21:11:40,681 - INFO: Title Started.
+2023-07-08 21:11:40,684 - INFO: Narration Started.
+2023-07-08 21:11:45,769 - INFO: Dialog Started.
+2023-07-08 21:12:07,796 - INFO: Title Started.
+2023-07-08 21:12:07,799 - INFO: Narration Started.
+2023-07-08 21:12:16,349 - INFO: Dialog Started.
+2023-07-08 21:12:35,790 - INFO: Title Started.
+2023-07-08 21:12:35,794 - INFO: Narration Started.
+2023-07-08 21:12:47,178 - INFO: Title Started.
+2023-07-08 21:12:47,181 - INFO: Narration Started.
+2023-07-08 21:12:53,552 - INFO: Dialog Started.
+2023-07-08 21:13:06,550 - INFO: Title Started.
+2023-07-08 21:13:06,553 - INFO: Narration Started.
+2023-07-08 21:13:13,179 - INFO: Dialog Started.
+2023-07-08 21:13:33,156 - INFO: Title Started.
+2023-07-08 21:13:33,159 - INFO: Narration Started.
+2023-07-08 21:13:39,785 - INFO: Dialog Started.
+2023-07-08 21:15:39,584 - INFO: __main__Starting unit test for module.
+2023-07-08 21:15:39,584 - INFO: Title Started.
+2023-07-08 21:15:39,587 - INFO: Narration Started.
+2023-07-08 21:15:46,213 - INFO: Dialog Started.
+2023-07-08 21:17:48,583 - WARNING: __main__Starting unit test for module.
+2023-07-08 21:17:48,584 - INFO: Title Started.
+2023-07-08 21:17:48,587 - INFO: Narration Started.
+2023-07-08 21:17:55,208 - INFO: Dialog Started.
+2023-07-08 21:21:34,998 - INFO: Program Started.
+2023-07-08 21:21:34,998 - INFO: Program Started.
+2023-07-08 21:21:34,999 - INFO: Entering Main Loop.
+2023-07-08 21:21:34,999 - INFO: Entering Main Loop.
+2023-07-08 21:21:34,999 - INFO: Title Started.
+2023-07-08 21:21:34,999 - INFO: Title Started.
+2023-07-08 21:21:35,001 - INFO: Program Ended.
+
+
+2023-07-08 21:21:35,001 - INFO: Program Ended.
+
+
+2023-07-08 21:23:08,625 - INFO: Title Started.
+2023-07-08 21:23:08,627 - INFO: Narration Started.
+2023-07-08 21:23:15,250 - INFO: Dialog Started.
+2023-07-08 21:23:55,897 - INFO: Title Started.
+2023-07-08 21:23:55,900 - INFO: Narration Started.
+2023-07-08 21:24:02,530 - INFO: Dialog Started.
+2023-07-08 21:26:54,141 - INFO: Program Started.
+2023-07-08 21:26:54,141 - INFO: Program Started.
+2023-07-08 21:26:54,142 - INFO: Entering Main Loop.
+2023-07-08 21:26:54,142 - INFO: Entering Main Loop.
+2023-07-08 21:26:54,142 - INFO: Title Started.
+2023-07-08 21:26:54,142 - INFO: Title Started.
+2023-07-08 21:26:54,144 - INFO: Program Ended.
+
+
+2023-07-08 21:26:54,144 - INFO: Program Ended.
+
+
+2023-07-08 21:30:37,964 - INFO: Program Started.
+2023-07-08 21:30:37,964 - INFO: Program Started.
+2023-07-08 21:30:37,964 - INFO: Entering Main Loop.
+2023-07-08 21:30:37,964 - INFO: Entering Main Loop.
+2023-07-08 21:30:37,964 - INFO: Program Ended.
+
+
+2023-07-08 21:30:37,964 - INFO: Program Ended.
+
+
+2023-07-08 21:30:42,218 - INFO: Program Started.
+2023-07-08 21:30:42,218 - INFO: Program Started.
+2023-07-08 21:30:42,219 - INFO: Entering Main Loop.
+2023-07-08 21:30:42,219 - INFO: Entering Main Loop.
+2023-07-08 21:30:42,219 - INFO: Program Ended.
+
+
+2023-07-08 21:30:42,219 - INFO: Program Ended.
+
+
+2023-07-08 21:30:57,294 - INFO: Program Started.
+2023-07-08 21:30:57,294 - INFO: Program Started.
+2023-07-08 21:30:57,294 - INFO: Entering Main Loop.
+2023-07-08 21:30:57,294 - INFO: Entering Main Loop.
+2023-07-08 21:30:57,294 - INFO: Anticipation Started.
+2023-07-08 21:30:57,294 - INFO: Anticipation Started.
+2023-07-08 21:31:02,363 - INFO: Anticipation Started.
+2023-07-08 21:31:02,363 - INFO: Anticipation Started.
+2023-07-08 21:31:06,707 - INFO: Anticipation Started.
+2023-07-08 21:31:06,707 - INFO: Anticipation Started.
+2023-07-08 21:31:11,061 - INFO: Title Started.
+2023-07-08 21:31:11,061 - INFO: Title Started.
+2023-07-08 21:31:11,065 - INFO: Anticipation Started.
+2023-07-08 21:31:11,065 - INFO: Anticipation Started.
+2023-07-08 21:31:12,466 - INFO: Program Ended.
+
+
+2023-07-08 21:31:12,466 - INFO: Program Ended.
+
+
